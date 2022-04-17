@@ -1,0 +1,21 @@
+{
+  "name": "unit-tasting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "library.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.3.6"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
